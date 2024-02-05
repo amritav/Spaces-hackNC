@@ -3,8 +3,7 @@ Introducing Spaces, the ultimate community-driven exploration app! Imagine a pla
 
 # What it does
 The platform is built around the smallest unit called 'spaces.' Each space is an individual's experience that can be discovered by any other individual. Spaces with similar properties can be grouped into 'Collections' for easy organization and sharing purposes. We utilize tags to uncover and establish communities, with the tags serving as a means to amplify the voices of these communities on our platform.
-[![Alt text](<img width="1639" alt="original" src="https://github.com/amritav/Spaces-hackNC/assets/19224584/86f7492a-6ee1-4bb4-ad21-571be4d1abfc">
-)](https://www.youtube.com/watch?v=LUpNAgsWKno)
+[![Alt text](https://img.youtube.com/vi/LUpNAgsWKno/0.jpg)](https://www.youtube.com/watch?v=LUpNAgsWKno)
 
 
 # How we built it
